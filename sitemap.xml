@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- English version (default) -->
+  <url>
+    <loc>https://macsuper.app/</loc>
+    <lastmod>2026-02-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://macsuper.app/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://macsuper.app/ar" />
+    <xhtml:link rel="alternate" hreflang="ca" href="https://macsuper.app/ca" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://macsuper.app/cs" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://macsuper.app/da" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://macsuper.app/de" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://macsuper.app/el" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://macsuper.app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://macsuper.app/es" />
+    <xhtml:link rel="alternate" hreflang="fi" href="https://macsuper.app/fi" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://macsuper.app/fr" />
+    <xhtml:link rel="alternate" hreflang="he" href="https://macsuper.app/he" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://macsuper.app/hi" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://macsuper.app/hr" />
+    <xhtml:link rel="alternate" hreflang="hu" href="https://macsuper.app/hu" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://macsuper.app/id" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://macsuper.app/it" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://macsuper.app/ja" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://macsuper.app/ko" />
+    <xhtml:link rel="alternate" hreflang="ms" href="https://macsuper.app/ms" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://macsuper.app/nl" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://macsuper.app/no" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://macsuper.app/pl" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://macsuper.app/pt" />
+    <xhtml:link rel="alternate" hreflang="ro" href="https://macsuper.app/ro" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://macsuper.app/ru" />
+    <xhtml:link rel="alternate" hreflang="sk" href="https://macsuper.app/sk" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://macsuper.app/sv" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://macsuper.app/th" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://macsuper.app/tr" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://macsuper.app/uk" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://macsuper.app/vi" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://macsuper.app/zh" />
+    <image:image>
+      <image:loc>https://macsuper.app/android-chrome-512x512.png</image:loc>
+      <image:title>MacSuper - Ultimate Mac Menu Bar Utility</image:title>
+      <image:caption>Transform your Mac into a productivity powerhouse with essential menu bar tools</image:caption>
+    </image:image>
+  </url>
+
+  <!-- All language homepages -->
+  <url><loc>https://macsuper.app/ar</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/ca</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/cs</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/da</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/de</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/el</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/es</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/fi</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/fr</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/he</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/hi</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/hr</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/hu</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/id</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/it</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/ja</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/ko</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/ms</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/nl</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/no</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/pl</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/pt</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/ro</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/ru</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/sk</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/sv</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/th</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/tr</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/uk</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/vi</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://macsuper.app/zh</loc><lastmod>2026-02-12</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+</urlset>
