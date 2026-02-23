@@ -1,6 +1,6 @@
 {
-  "name": "MacSuper",
-  "short_name": "MacSuper",
+  "name": "SuperMenuBar",
+  "short_name": "SuperMenuBar",
   "description": "Transform your Mac into a productivity powerhouse with the ultimate menu bar utility app. Features Pomodoro Timer, Keep Awake, Quick Calendar, Camera Preview, Mic Controls & Mac Settings.",
   "start_url": "/",
   "display": "standalone",
@@ -85,7 +85,7 @@
       "src": "/macsuper-menu-bar.png",
       "sizes": "1170x2532",
       "type": "image/png",
-      "label": "MacSuper Menu Bar Interface"
+      "label": "SuperMenuBar Menu Bar Interface"
     },
     {
       "src": "/macsuper-pomodoro.png",
